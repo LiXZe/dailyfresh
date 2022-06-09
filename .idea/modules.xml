@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BaiduNetdiskDownload/07web全栈开发阶段-Django框架-Git版本管理-redis数据库-天天生鲜项目/11-14Django代码V3.1/Django代码V3.1/day16-天天生鲜项目-支付结果查询-订单评论-项目部署-总结/4-代码/dailyfresh/.idea/dailyfresh.iml" filepath="$PROJECT_DIR$/../BaiduNetdiskDownload/07web全栈开发阶段-Django框架-Git版本管理-redis数据库-天天生鲜项目/11-14Django代码V3.1/Django代码V3.1/day16-天天生鲜项目-支付结果查询-订单评论-项目部署-总结/4-代码/dailyfresh/.idea/dailyfresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django-test/.idea/django-test.iml" filepath="$PROJECT_DIR$/../django-test/.idea/django-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django4.0.iml" filepath="$PROJECT_DIR$/.idea/django4.0.iml" />
+    </modules>
+  </component>
+</project>
